@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1776765281661,
+    "text": "chess",
+    "completed": true
+  },
+  {
+    "id": 1776779999180,
+    "text": "dice",
+    "completed": true
+  },
+  {
+    "id": 1776780068293,
+    "text": "Study React",
+    "completed": false
+  },
+  {
+    "id": 1776780082794,
+    "text": "Complete assignment",
+    "completed": false
+  },
+  {
+    "id": 1776780656452,
+    "text": "dice",
+    "completed": false
+  },
+  {
+    "id": 1776780992067,
+    "text": "work",
+    "completed": false
+  }
+]
